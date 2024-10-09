@@ -9,6 +9,7 @@ import java.util.Random;
 */
 public class TorpedoStore {
 
+  // here i create a random with Random random new random
   private Random random = new Random();
 
   // rate of failing to fire torpedos [0.0, 1.0]
